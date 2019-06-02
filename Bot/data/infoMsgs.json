@@ -1,0 +1,14 @@
+{
+  "infoMsg1": [
+    "**```Important Information```**",
+    "Hey there! If you're seeing this, it means you want to add the bot to your server. Before we do that, there are a couple things you need to know about the bot. If you do not follow these steps, the bot won't work for you, and will error for me! We don't want that, do we?",
+    "First, you must create a couple roles, these being Staff and Administrator, and these roles are CaSe SeNsItIvE. That enables the permissions system to work.",
+    "Next, you need to make a channel named 'logs'. This is where all of the logs for bans, kicks, warnings and mutes go."
+  ],
+  "infoMsg4": [
+    "**```About the Bot```**",
+    "I'm coded by Calvin#1287",
+    "The time to develop me took about 4 months.",
+    "I'm constantly being updated, which is mainly the reason for any downtime."
+  ]
+}
